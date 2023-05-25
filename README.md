@@ -1,6 +1,6 @@
 # Quan_ly_covid_nhom_6
 
-Nhập môn Công nghệ phần mềm học kỳ 20221
+Bài tập lớn môn học Nhập môn Công nghệ phần mềm học kỳ 20221
 
 Nguyễn Minh An 20200004
 
